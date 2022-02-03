@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/local/munkireport/munkireport-python2
 
 # This is the clientside module for mbbr_status
 
